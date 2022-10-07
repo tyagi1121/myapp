@@ -69,14 +69,14 @@ export default function Home({navigation}) {
             <View style={styles.btn}>
               <Button
                 title="Choose Books"
-                onPress={() => { alert('Hiii') }}
+                onPress={() => navigation.navigate('Books')}
               />
             </View>
 
             <View style={styles.btn}>
               <Button
                 title="About Us"
-                onPress={() => { alert('HELLO') }}
+                onPress={() => navigation.navigate('About Us')}
               />
             </View>
           </View>

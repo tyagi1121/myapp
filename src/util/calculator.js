@@ -7,7 +7,7 @@ export const initialState = {
 export const handleNumber = (value, state) => {
   if (state.currentValue === "0") {
     return { currentValue: `${value}` };
-  }2
+  }
 
   return {
     currentValue: `${state.currentValue}${value}`,
