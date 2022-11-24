@@ -21,7 +21,7 @@ export default function Home({navigation}) {
   const [category, setCategory] = useState([
     { 'name': 'Books' },
     { 'name': 'Calculator' },
-    { 'name': 'About us' },
+    { 'name': 'Details' },
     { 'name': 'More' },
     { 'name': 'Deepak' },
     { 'name': 'Contect us' }])
@@ -75,8 +75,8 @@ export default function Home({navigation}) {
 
             <View style={styles.btn}>
               <Button
-                title="About Us"
-                onPress={() => navigation.navigate('About Us')}
+                title="Details"
+                onPress={() => navigation.navigate('Details')}
               />
             </View>
           </View>

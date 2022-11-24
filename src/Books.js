@@ -14,7 +14,8 @@ export default function Books() {
 
 
 
-    })
+    },[])
+    console.log('books',data)
     return (
 
         <ScrollView>
