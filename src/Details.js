@@ -22,7 +22,7 @@ export default function Details() {
                     </DataTable.Title>
                     <DataTable.Title style={{
                         flex: 5, 
-                        borderRightWidth: 2,
+                        borderRightWidth: 1,
                         borderRightColor: 'black',
                         paddingLeft: 5
                     }}>
@@ -42,9 +42,7 @@ export default function Details() {
                     }}>
                         <Text style={styles.title}>City</Text>
                     </DataTable.Title>
-                    {/* <DataTable.Title>Age</DataTable.Title>
-                    
-                    <DataTable.Title>Contact No.</DataTable.Title> */}
+                   
                 </DataTable.Header>
 
                 {Data && Data.map(data => {
@@ -80,9 +78,7 @@ export default function Details() {
 
                                 <Text style={styles.cell}>{data.city}</Text>
                             </DataTable.Cell>
-                            {/* <DataTable.Cell>{data.age}</DataTable.Cell>
                             
-                            <DataTable.Cell>{data.phoneNumber}</DataTable.Cell> */}
                         </DataTable.Row>
 
                     )

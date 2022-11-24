@@ -12,10 +12,7 @@ export default StyleSheet.create({
     title: {
         color:'black',
         fontWeight: 'bold',
-        fontSize: 15,  
-        
-              
-
+        fontSize: 15,
     },
     cell:{
         color:'black',

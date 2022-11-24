@@ -5,8 +5,7 @@
       "lastName": "Singla",
       "email": "abcw@gmail.com",
       "age": "25",
-      "city": "Delhi",
-      "phoneNumber": "111-111-1111"
+      "city": "Delhi"
    },
    {
       "id": "2",
@@ -14,8 +13,7 @@
       "lastName": "Tyagi",
       "email": "absc@gmail.com",
       "age": "26",
-      "city": "Saharanpur",
-      "phoneNumber": "8556001355"
+      "city": "Saharanpur"
    },
    {
       "id": "3",
@@ -23,8 +21,7 @@
       "lastName": "khatri",
       "email": "abdc@gmail.com",
       "age": "27",
-      "city": "Gurugram",
-      "phoneNumber": "8939404877"
+      "city": "Gurugram"
    },
    {
       "id": "4",
@@ -32,8 +29,7 @@
       "lastName": "Kumar",
       "email": "abcd@gmail.com",
       "age": "27",
-      "city": "Gurugram",
-      "phoneNumber": "1579303736"
+      "city": "Gurugram"
    },
    {
       "id": "5",
@@ -41,8 +37,7 @@
       "lastName": "Raiswal",
       "email": "abce@gmail.com",
       "age": "26",
-      "city": "Jaipur",
-      "phoneNumber": "787835338"
+      "city": "Jaipur"
    },
    {
       "id": "6",
@@ -50,7 +45,7 @@
       "lastName": "Rajput",
       "email": "abcw@gmail.com",
       "age": "26",
-      "city": "Jaipur",
-      "phoneNumber": "8384983433"
+      "city": "Jaipur"
+      
    }
 ]
