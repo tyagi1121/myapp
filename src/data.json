@@ -1,33 +1,56 @@
 [
    {
-       "id" : "1",
-      "firstName": "Duke",
-      "lastName": "Java",
-      "age": "18",
-      "streetAddress": "100 Internet Dr",
-      "city": "JavaTown",
-      "state": "JA",
-      "postalCode": "12345",
-      "phoneNumber":"111-111-1111"
+      "id": "1",
+      "firstName": "Bhuvesh",
+      "lastName": "Singla",
+      "email": "abcw@gmail.com",
+      "age": "25",
+      "city": "Delhi",
+      "phoneNumber": "111-111-1111"
    },
    {
-       "id" : "2",
-   "firstName": "Deepak",
+      "id": "2",
+      "firstName": "Deepak",
       "lastName": "Tyagi",
+      "email": "absc@gmail.com",
       "age": "26",
-      "city": "JavaTown",
-      "state": "JA",
-      "postalCode": "12345",
-      "phoneNumber":"111-111-1111"
+      "city": "Saharanpur",
+      "phoneNumber": "8556001355"
    },
    {
-       "id" : "3",
-   "firstName": "Shekhar",
-      "lastName": "Saini",
+      "id": "3",
+      "firstName": "Deepak",
+      "lastName": "khatri",
+      "email": "abdc@gmail.com",
       "age": "27",
-      "city": "JavaTown",
-      "state": "JA",
-      "postalCode": "12345",
-      "phoneNumber":"111-111-1111"
+      "city": "Gurugram",
+      "phoneNumber": "8939404877"
+   },
+   {
+      "id": "4",
+      "firstName": "Madhu",
+      "lastName": "Kumar",
+      "email": "abcd@gmail.com",
+      "age": "27",
+      "city": "Gurugram",
+      "phoneNumber": "1579303736"
+   },
+   {
+      "id": "5",
+      "firstName": "Ankit",
+      "lastName": "Raiswal",
+      "email": "abce@gmail.com",
+      "age": "26",
+      "city": "Jaipur",
+      "phoneNumber": "787835338"
+   },
+   {
+      "id": "6",
+      "firstName": "Khimanshu",
+      "lastName": "Rajput",
+      "email": "abcw@gmail.com",
+      "age": "26",
+      "city": "Jaipur",
+      "phoneNumber": "8384983433"
    }
-   ]
+]
